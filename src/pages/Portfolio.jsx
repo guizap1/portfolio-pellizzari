@@ -6,7 +6,14 @@ const portfolioData = [
     title: "Busca Mei",
     description:
       "Plataforma web para conectar Microempreendedores Individuais (MEIs) a clientes, com portal de busca público e painel administrativo para gerenciamento",
-    technologies: ["React.js", "Tailwind CSS", "Vite", "Laravel", "Axios"],
+    technologies: [
+      "React.js",
+      "Tailwind CSS",
+      "Vite",
+      "Laravel",
+      "Axios",
+      "MySql",
+    ],
     liveUrl: "#",
     repoUrl: "#",
   },
